@@ -125,7 +125,7 @@ pkg install yarn
 
 pkg install imagemagick -y
 
-git clone https://github.com/AYUSH-PANDEY023/Rex-Md
+git clone https://github.com/AYUSH-PANDEY023/Maria-Md
 
 cd Maria-Md
 
